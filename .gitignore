@@ -1,0 +1,8 @@
+# Release-signing secrets
+keystore/
+android/keystore.properties
+*.jks
+*.keystore
+
+# Generated build output
+output/
